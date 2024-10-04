@@ -1,0 +1,8 @@
+C:\Users\labc202\Documents\cerl\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\cerl\Archivos\obj\Debug\Archivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\cerl\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\cerl\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\labc202\Documents\cerl\Archivos\bin\Debug\Archivos.exe
+C:\Users\labc202\Documents\cerl\Archivos\bin\Debug\Archivos.pdb
+C:\Users\labc202\Documents\cerl\Archivos\obj\Debug\Archivos.exe
+C:\Users\labc202\Documents\cerl\Archivos\obj\Debug\Archivos.pdb

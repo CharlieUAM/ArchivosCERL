@@ -1,0 +1,11 @@
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\bin\Debug\ArchivosPeroConVista.exe.config
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\bin\Debug\ArchivosPeroConVista.exe
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\bin\Debug\ArchivosPeroConVista.pdb
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\obj\Debug\ArchivosPeroConVista.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\obj\Debug\ArchivosPeroConVista.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\obj\Debug\ArchivosPeroConVista.Form1.resources
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\obj\Debug\ArchivosPeroConVista.Properties.Resources.resources
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\obj\Debug\ArchivosPeroConVista.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\obj\Debug\ArchivosPeroConVista.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\obj\Debug\ArchivosPeroConVista.exe
+C:\Users\labc202\Documents\cerl\ArchivosPeroConVista\obj\Debug\ArchivosPeroConVista.pdb
